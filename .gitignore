@@ -1,0 +1,9 @@
+.claude/settings.local.json
+.claude/*.backup*
+.env
+.env.*
+!.env.example
+*.dpapi
+tools/setup-verification.json
+__pycache__/
+.venv/
